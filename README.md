@@ -7,7 +7,7 @@ Lectures ended up into a quick run through **Python** and **numpy** as foundatio
 The second part of the course discusses important statistical applications, that students are already familiar with from their background, but rephrased using tensor algebra to be immediately transposed into `numpy` code. The applications considered are the *linear regression* and its *least-squared method* approximation and the *logistic regression*. 
 
 While discussing the *logistic regression*, examples of numerical optimization using Minuit are provided.
-Finally, we build on top of the *linear* and *logistic* regression to define advanced *regression* and *classification* methods based on *Polynomial expansions, *Decision Trees* and *Boosted Decision Trees*.
+Finally, we build on top of the *linear* and *logistic* regression to define advanced *regression* and *classification* methods based on *Polynomial expansions*, *Decision Trees* and *Boosted Decision Trees*.
 
 # LICENSE
 The material collected in this repository is available under CC-BY 4.0 license.
